@@ -10,7 +10,7 @@ Este proyecto busca facilitar el cálculo de propinas y totales a pagar en situa
 
 ---
 
-## 🧠 Problema que resuelve
+##  Problema que resuelve
 
 En muchos restaurantes, la propina no está incluida automáticamente en la cuenta, por lo que el cliente debe calcularla manualmente.  
 Dependiendo del servicio, la propina puede variar (10 %, 15 %, 20 % o personalizada).  
@@ -31,7 +31,7 @@ Este programa permite:
 
 ---
 
-## 🧰 Funcionalidades principales
+##  Funcionalidades principales
 
 - **Ingreso del monto total de la cuenta**  
 - **Selección del porcentaje de propina** (10 %, 15 %, 20 % o personalizado)  
@@ -42,7 +42,7 @@ Este programa permite:
 
 ---
 
-## 📝 Funciones específicas
+##  Funciones específicas
 
 | Función | Descripción |
 |---------|-------------|
@@ -52,7 +52,7 @@ Este programa permite:
 
 ---
 
-## 🖥️ Ejemplo de salida
+##  Ejemplo de salida
 
 ```
 ------RESTAURANTE DON FREDDY------
@@ -77,7 +77,7 @@ Ingrese el monto total de la cuenta: 50
 El total del monto $50.0 más la propina $7.5 es de $57.5
 ```
 
-### 👉 División entre varias personas
+###  División entre varias personas
 
 ```
 Ingresa la opción que desea usar: 2
@@ -88,7 +88,7 @@ El total del monto $50.0 más la propina $7.5 que tienen que pagar las 4 persona
 
 ---
 
-## 🧪 Requisitos
+##  Requisitos
 
 - **Python 3.7 o superior**
 - Consola de comandos o terminal
@@ -122,7 +122,7 @@ simulador-propina/
 
 ---
 
-## ✨ Posibles mejoras futuras
+##  Posibles mejoras futuras
 
 * Interfaz gráfica con Tkinter o PyQt.
 * Validaciones adicionales de entrada (manejo de excepciones).
@@ -131,7 +131,7 @@ simulador-propina/
 
 ---
 
-## 🧑‍💻 Autor
+##  Autor
 
 **Freddy Ramón**  
 Proyecto desarrollado como ejercicio práctico de programación básica en Python.  
