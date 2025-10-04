@@ -105,7 +105,7 @@ El total del monto $50.0 más la propina $7.5 que tienen que pagar las 4 persona
 
 2. Ejecuta el programa:
    ```bash
-   python main.py
+   python menu_principal.py
    ```
 
 ---
